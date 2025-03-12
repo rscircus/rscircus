@@ -2,6 +2,8 @@
 
 🤹 Want to read, what I write? 👉 [https://rscircus.github.io](https://rscircus.github.io)
 
+If you are here to check out my code, you are at the wrong place. I stopped providing "food" for "AI" companies which attempt to sell my own thoughts back to me except for a very select subset of projects.
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rscircus&show_icons=true&hide=stars" />
